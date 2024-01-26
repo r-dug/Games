@@ -1,4 +1,4 @@
 # Games
-Very basic games in python.
-Pong clone
+Very basic games in python including:
+Pong clone,
 Silly dungeon crawler
