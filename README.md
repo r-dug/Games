@@ -1,2 +1,4 @@
 # Games
-Sure! It's a fun thing to do- creating games! 
+Very basic games in python.
+Pong clone
+Silly dungeon crawler
